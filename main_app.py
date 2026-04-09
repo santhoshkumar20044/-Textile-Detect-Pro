@@ -198,7 +198,7 @@ AUTHORIZE_URL = "https://accounts.google.com/o/oauth2/v2/auth"
 TOKEN_URL = "https://oauth2.googleapis.com/token"
 REFRESH_TOKEN_URL = "https://oauth2.googleapis.com/token"
 REVOKE_TOKEN_URL = "https://oauth2.googleapis.com/revoke"
-REDIRECT_URI = "http://localhost:8501"
+REDIRECT_URI ="https://fabric-check-app.streamlit.app"
 
 # Admin emails
 ADMINS = ["santhoshwebworker@gmail.com", "e22cs003@shanmugha.edu.in"]
